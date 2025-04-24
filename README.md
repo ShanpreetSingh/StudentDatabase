@@ -58,7 +58,7 @@ Installation
 
 ILLUSTRATIONS
 
-1) ![image](https://github.com/user-attachments/assets/463ab617-e0aa-4fd6-b4de-2a0058c84d70)  (Screenshot of Student Form)
+1) ![image](https://github.com/user-attachments/assets/f1634861-3544-435b-abd7-ef39285c5458) (Screenshot of Student Form)
 2) ![image](https://github.com/user-attachments/assets/4516578e-463c-4402-a1d5-158924eefcf5)  (Screenshot of DataBase)
 
  SCOPE OF FUNCTIONALITIES
