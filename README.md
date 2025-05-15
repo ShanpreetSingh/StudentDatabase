@@ -107,15 +107,6 @@ Regenerate if expired
 
 
 
-## Troubleshooting
-CORS Issues
 
-If you see CORS errors:
-Install a CORS browser extension temporarily
-
-Token Problems
-
-Verify token in JSONPowerDB dashboard
-Regenerate if expired
 ## 
 Developed By : Shanpreet Singh
